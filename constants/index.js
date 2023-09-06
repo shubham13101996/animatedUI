@@ -62,21 +62,27 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: "/planet-06.png",
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    title: "Power through, even when the  going gets tough",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "we help you  spot  and work around whatever  stands  in the way , be it  bad habits,fears,etc.",
+  },
+  {
+    imgUrl: "/planet-08.png",
+    title: "Learn more about who you are and where you want to go",
+    subtitle:
+      "we ask the right question to help you better understand why you do thing the way you do. ",
   },
   {
     imgUrl: "/planet-07.png",
-    title: "7 tips to easily master the madness of the Metaverse",
+    title: "Play and grow together with others on the same journey",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "Ahead feels like a game,not like a  chore.See yourself grow every day towards achieving  your goals",
   },
   {
     imgUrl: "/planet-08.png",
     title: "With one platform you can explore the whole world virtually",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "we help you  spot  and work around whatever  stands  in the way , be it  bad habits,fears,etc.",
   },
 ];
 
