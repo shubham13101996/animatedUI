@@ -1,9 +1,9 @@
-"use client";
+'use client';
 
-import { motion } from "framer-motion";
+import { motion } from 'framer-motion';
 
-import styles from "../styles";
-import { navVariants } from "../utils/motion";
+import styles from '../styles';
+import { navVariants } from '../utils/motion';
 
 const Navbar = () => (
   <motion.nav
@@ -32,7 +32,7 @@ const Navbar = () => (
         Work With Us
       </h2>
 
-      <button className="bg-white font-extrabold text-[15px] w-[150px] h-[40px] object-contain rounded-[50px]">Download app</button>
+      <button type="button" className="bg-white font-extrabold text-[15px] w-[150px] h-[40px] object-contain rounded-[50px]">Download app</button>
     </div>
   </motion.nav>
 );
