@@ -35,15 +35,27 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: "/vrpano.svg",
-    title: "A new world",
+    title: "It's not easy as 1-2-3.",
     subtitle:
-      "we have the latest update with new world for you to try never mind",
+      "The journey of change may be long,but our sessions are quick. We get to the point and tell you what you want to know(and nothing else).",
   },
   {
     imgUrl: "/headset.svg",
-    title: "More realistic",
+    title: "Old habits are hard to break.",
     subtitle:
-      "In the latest update, your eyes are narrow, making the world more realistic than ever",
+      "And bad behaviour die hard. Fortunately, we give you great,science-backed techniques to use.",
+  },
+  {
+    imgUrl: "/vrpano.svg",
+    title: "Motivation relationship.",
+    subtitle:
+      "You and Your motivation don't have a long-term relationship goal.",
+  },
+  {
+    imgUrl: "/headset.svg",
+    title: "Books just don't offer practional solutions",
+    subtitle:
+      "Remember when you learned  to ride a  bike just by reading? Yeah we don't either...",
   },
 ];
 
