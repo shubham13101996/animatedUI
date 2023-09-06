@@ -5,6 +5,7 @@ import GetStarted from './GetStarted';
 import WhatsNew from './WhatsNew';
 import World from './World';
 import Insights from './Insights';
+import Vacancy from './Vacancy';
 import Feedback from './Feedback';
 
 export {
@@ -15,5 +16,6 @@ export {
   WhatsNew,
   World,
   Insights,
+  Vacancy,
   Feedback,
 };

@@ -86,6 +86,34 @@ export const insights = [
   },
 ];
 
+export const vacancyList = [
+  {
+    id: "world-1",
+    imgUrl: "/planet-01.png",
+    title: "Senior Full-Stack Engineer",
+  },
+  {
+    id: "world-2",
+    imgUrl: "/planet-02.png",
+    title: "Senior Software Engineer",
+  },
+  {
+    id: "world-3",
+    imgUrl: "/planet-03.png",
+    title: "NodeJs Intern",
+  },
+  {
+    id: "world-4",
+    imgUrl: "/planet-04.png",
+    title: "Android Developer",
+  },
+  {
+    id: "world-5",
+    imgUrl: "/planet-05.png",
+    title: "Python Developer",
+  },
+];
+
 export const socials = [
   {
     name: "twitter",

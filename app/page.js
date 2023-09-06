@@ -2,10 +2,10 @@ import { Footer, Navbar } from "../components";
 import {
   About,
   Explore,
-  Feedback,
   GetStarted,
   Hero,
   Insights,
+  Vacancy,
   WhatsNew,
   World,
 } from "../sections";
@@ -28,7 +28,7 @@ const Page = () => (
     <div className="relative">
       <Insights />
       <div className="gradient-04 z-0" />
-      <Feedback />
+      <Vacancy />
     </div>
 
     <Footer />

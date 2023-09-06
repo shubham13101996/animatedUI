@@ -4,6 +4,7 @@ import ExploreCard from './ExploreCard';
 import StartSteps from './StartSteps';
 import NewFeatures from './NewFeatures';
 import InsightCard from './InsightCard';
+import VacancyCard from './VacancyCard'
 import Footer from './Footer';
 
 export {
@@ -14,5 +15,6 @@ export {
   NewFeatures,
   ExploreCard,
   InsightCard,
+  VacancyCard,
   Footer,
 };
